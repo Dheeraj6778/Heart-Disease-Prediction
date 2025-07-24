@@ -1,0 +1,11 @@
+venv/
+.env
+.env.*
+*.env
+credentials.txt
+# Ignore Python cache files
+__pycache__/
+
+.DS_Store
+
+.vscode/
